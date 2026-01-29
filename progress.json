@@ -1,6 +1,6 @@
 {
   "pack": 1,
-  "sizeMB": 255.45516777038574,
+  "sizeMB": 256.3425750732422,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -211,6 +211,7 @@
     "chaopuzzle_202012",
     "aerodynamicsslide-swf",
     "mermaid-slacking",
-    "blizzard-racing-hazard"
+    "blizzard-racing-hazard",
+    "bubble_trouble_"
   ]
 }
