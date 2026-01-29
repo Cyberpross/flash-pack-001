@@ -1,6 +1,6 @@
 {
   "pack": 1,
-  "sizeMB": 206.77762603759766,
+  "sizeMB": 206.86947345733643,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -176,6 +176,7 @@
     "1100_hyper_trak",
     "1100_invasion_lite",
     "1100_shuriken_assault",
-    "1100_snakee"
+    "1100_snakee",
+    "1to-10_swf"
   ]
 }
