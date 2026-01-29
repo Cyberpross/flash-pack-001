@@ -1,6 +1,6 @@
 {
   "pack": 1,
-  "sizeMB": 522.220235824585,
+  "sizeMB": 522.3687543869019,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -318,6 +318,7 @@
     "EngieMetalPipeCollect",
     "download-super-mario-63-rom",
     "1100_burnsie",
-    "1100_ao"
+    "1100_ao",
+    "1100_beach_bobbing_bob"
   ]
 }
