@@ -1,6 +1,6 @@
 {
   "pack": 1,
-  "sizeMB": 206.63451766967773,
+  "sizeMB": 206.66667461395264,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -173,6 +173,7 @@
     "1100_spear_toss",
     "1100_demon",
     "1100_divatron",
-    "1100_hyper_trak"
+    "1100_hyper_trak",
+    "1100_invasion_lite"
   ]
 }
