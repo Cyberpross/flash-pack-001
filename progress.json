@@ -1,6 +1,6 @@
 {
   "pack": 1,
-  "sizeMB": 203.9915590286255,
+  "sizeMB": 204.16117763519287,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -164,6 +164,7 @@
     "1100_free_the_pharaon",
     "1100_magical_stars",
     "1100_spheroids",
-    "1100_cotse_spy_hunter"
+    "1100_cotse_spy_hunter",
+    "1100_crash_classic"
   ]
 }
