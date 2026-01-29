@@ -1,6 +1,6 @@
 {
   "pack": 1,
-  "sizeMB": 187.31823062896729,
+  "sizeMB": 189.2073211669922,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -137,6 +137,7 @@
     "1100_crazy_kimono_doll_assault",
     "1100_speed_car",
     "1100_spell_racer",
-    "1100_cleanup"
+    "1100_cleanup",
+    "1100_rottingonslaught"
   ]
 }
