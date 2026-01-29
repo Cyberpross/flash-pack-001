@@ -1,6 +1,6 @@
 {
   "pack": 1,
-  "sizeMB": 256.7153730392456,
+  "sizeMB": 256.9044065475464,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -214,6 +214,7 @@
     "blizzard-racing-hazard",
     "bubble_trouble_",
     "poptartchase_game1",
-    "ppp_scene_maker"
+    "ppp_scene_maker",
+    "percent"
   ]
 }
