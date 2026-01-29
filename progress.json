@@ -1,6 +1,6 @@
 {
   "pack": 1,
-  "sizeMB": 725.9655866622925,
+  "sizeMB": 726.1101684570312,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -404,6 +404,7 @@
     "maqueta-1",
     "pacman-flash",
     "parking-mania",
-    "494_20250326"
+    "494_20250326",
+    "1100_blobs"
   ]
 }
