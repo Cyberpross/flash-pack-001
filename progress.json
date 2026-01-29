@@ -1,6 +1,6 @@
 {
   "pack": 1,
-  "sizeMB": 195.68968296051025,
+  "sizeMB": 196.7767391204834,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -152,6 +152,7 @@
     "1100_stardust",
     "1100_stunt_bike_2004",
     "1100_ants",
-    "Example_flash15"
+    "Example_flash15",
+    "Flash_bullet-time-fighting"
   ]
 }
