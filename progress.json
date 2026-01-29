@@ -1,6 +1,6 @@
 {
   "pack": 1,
-  "sizeMB": 200.49467945098877,
+  "sizeMB": 203.17516994476318,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -158,6 +158,7 @@
     "2020-crazy-flahser-3",
     "1100_board",
     "1100_3d_space_skimmer",
-    "1100_jet_bike"
+    "1100_jet_bike",
+    "1100_bleed"
   ]
 }
