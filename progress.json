@@ -1,6 +1,6 @@
 {
   "pack": 1,
-  "sizeMB": 185.03195095062256,
+  "sizeMB": 185.1944055557251,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -128,6 +128,7 @@
     "th10_mov",
     "the-mini-jump-game",
     "marieantoinette_noGallery2",
-    "tane_swf"
+    "tane_swf",
+    "vector-jigsaw-puzzle"
   ]
 }
