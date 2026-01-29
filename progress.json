@@ -1,6 +1,6 @@
 {
   "pack": 1,
-  "sizeMB": 440.67285442352295,
+  "sizeMB": 440.7798881530762,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -279,6 +279,7 @@
     "fleeing_the-complex",
     "flyguy_202111",
     "spore_widget_us",
-    "the-munchie-guy-engine-revised"
+    "the-munchie-guy-engine-revised",
+    "sounds_202502"
   ]
 }
