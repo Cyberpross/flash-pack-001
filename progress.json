@@ -1,6 +1,6 @@
 {
   "pack": 1,
-  "sizeMB": 206.66667461395264,
+  "sizeMB": 206.70747566223145,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -174,6 +174,7 @@
     "1100_demon",
     "1100_divatron",
     "1100_hyper_trak",
-    "1100_invasion_lite"
+    "1100_invasion_lite",
+    "1100_shuriken_assault"
   ]
 }
