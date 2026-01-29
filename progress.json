@@ -1,6 +1,6 @@
 {
   "pack": 1,
-  "sizeMB": 203.17516994476318,
+  "sizeMB": 203.3887014389038,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -159,6 +159,7 @@
     "1100_board",
     "1100_3d_space_skimmer",
     "1100_jet_bike",
-    "1100_bleed"
+    "1100_bleed",
+    "1100_bubbles"
   ]
 }
