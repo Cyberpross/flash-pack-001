@@ -1,6 +1,6 @@
 {
   "pack": 1,
-  "sizeMB": 575.4912042617798,
+  "sizeMB": 576.3470458984375,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -347,6 +347,7 @@
     "liquidvolume",
     "polar_express_ticket_chase",
     "pixel-quest",
-    "plants-vs-zombies_202111"
+    "plants-vs-zombies_202111",
+    "wildfire-run-escape-from-camp-david"
   ]
 }
