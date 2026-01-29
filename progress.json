@@ -1,6 +1,6 @@
 {
   "pack": 1,
-  "sizeMB": 739.6434240341187,
+  "sizeMB": 746.0438146591187,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -425,6 +425,7 @@
     "2459-mini-soccer",
     "2615-blueshift",
     "2625-sponge-bob-squarepants-ship-o-ghouls",
-    "2681-shadow-of-the-hamunaptra"
+    "2681-shadow-of-the-hamunaptra",
+    "3d_taxi_racing"
   ]
 }
