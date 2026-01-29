@@ -1,6 +1,6 @@
 {
   "pack": 1,
-  "sizeMB": 557.6776075363159,
+  "sizeMB": 559.1222848892212,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -334,6 +334,7 @@
     "tournament-pong",
     "iceagedvdrom",
     "cat-ch",
-    "cleaning-slacking"
+    "cleaning-slacking",
+    "608075-mountain"
   ]
 }
