@@ -1,6 +1,6 @@
 {
   "pack": 1,
-  "sizeMB": 896.6635627746582,
+  "sizeMB": 896.9189939498901,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -487,6 +487,7 @@
     "1100_frantic",
     "1100_heli_attack_2",
     "1082-lord-oz-wald",
-    "thedoors_202403"
+    "thedoors_202403",
+    "the-backup-files"
   ]
 }
