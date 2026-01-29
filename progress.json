@@ -1,6 +1,6 @@
 {
   "pack": 1,
-  "sizeMB": 203.56957149505615,
+  "sizeMB": 203.8291301727295,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -162,6 +162,7 @@
     "1100_bleed",
     "1100_bubbles",
     "1100_free_the_pharaon",
-    "1100_magical_stars"
+    "1100_magical_stars",
+    "1100_spheroids"
   ]
 }
