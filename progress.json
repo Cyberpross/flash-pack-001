@@ -1,6 +1,6 @@
 {
   "pack": 1,
-  "sizeMB": 189.9426565170288,
+  "sizeMB": 190.35612392425537,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -140,6 +140,7 @@
     "1100_cleanup",
     "1100_rottingonslaught",
     "1100_KerryBushBash",
-    "1100_fight"
+    "1100_fight",
+    "toonslyworld-ticket-trouble-p2"
   ]
 }
