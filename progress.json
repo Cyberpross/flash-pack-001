@@ -1,6 +1,6 @@
 {
   "pack": 1,
-  "sizeMB": 131.23975563049316,
+  "sizeMB": 132.2557601928711,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -100,6 +100,7 @@
     "clawd-wolf-messy-room-cleaning",
     "internet-simulator",
     "2413-bomb-jack-2",
-    "virtual-knee-surgery"
+    "virtual-knee-surgery",
+    "n-orbit"
   ]
 }
