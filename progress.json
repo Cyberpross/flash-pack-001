@@ -1,6 +1,6 @@
 {
   "pack": 1,
-  "sizeMB": 748.8498268127441,
+  "sizeMB": 748.9073038101196,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -431,6 +431,7 @@
     "monolith-mario-world",
     "1100_connect_4",
     "1100_fruits",
-    "1100_dedal"
+    "1100_dedal",
+    "neave-pac-man-flash"
   ]
 }
