@@ -1,6 +1,6 @@
 {
   "pack": 1,
-  "sizeMB": 207.1280574798584,
+  "sizeMB": 207.25150871276855,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -178,6 +178,7 @@
     "1100_shuriken_assault",
     "1100_snakee",
     "1to-10_swf",
-    "doll_dressup_10"
+    "doll_dressup_10",
+    "knuckles-puzzle"
   ]
 }
