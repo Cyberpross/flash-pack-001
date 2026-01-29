@@ -1,6 +1,6 @@
 {
   "pack": 1,
-  "sizeMB": 256.9044065475464,
+  "sizeMB": 261.7478036880493,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -215,6 +215,7 @@
     "bubble_trouble_",
     "poptartchase_game1",
     "ppp_scene_maker",
-    "percent"
+    "percent",
+    "cr2_20220219"
   ]
 }
