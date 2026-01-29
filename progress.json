@@ -1,6 +1,6 @@
 {
   "pack": 1,
-  "sizeMB": 280.4436264038086,
+  "sizeMB": 280.50341606140137,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -236,6 +236,7 @@
     "1100_ballrevamped4",
     "1100_FWG3dPong",
     "1100_mission_to_mars",
-    "1100_forrest_challenge_2"
+    "1100_forrest_challenge_2",
+    "mumble-peg-anyone"
   ]
 }
