@@ -1,6 +1,6 @@
 {
   "pack": 1,
-  "sizeMB": 830.5170879364014,
+  "sizeMB": 830.5500841140747,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -461,6 +461,7 @@
     "1100_star_huntress",
     "phosphorouscycle",
     "natal2002_flash",
-    "network-sim"
+    "network-sim",
+    "nasralla-fall"
   ]
 }
