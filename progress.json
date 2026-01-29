@@ -1,6 +1,6 @@
 {
   "pack": 1,
-  "sizeMB": 396.00469970703125,
+  "sizeMB": 396.40252208709717,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -266,6 +266,7 @@
     "Planarity",
     "doras-matching-game",
     "dagobah_Bloons_Tower_Defense_3",
-    "devilish-christmas"
+    "devilish-christmas",
+    "example_flash_202102"
   ]
 }
