@@ -1,6 +1,6 @@
 {
   "pack": 1,
-  "sizeMB": 242.44745540618896,
+  "sizeMB": 242.57888793945312,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -207,6 +207,7 @@
     "fuzzacademymemorygame",
     "mad-dna",
     "go-spin-117817f",
-    "29158-mermaidslacking-tk"
+    "29158-mermaidslacking-tk",
+    "chaopuzzle_202012"
   ]
 }
