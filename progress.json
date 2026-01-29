@@ -1,6 +1,6 @@
 {
   "pack": 1,
-  "sizeMB": 544.0956029891968,
+  "sizeMB": 555.9526672363281,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -331,6 +331,7 @@
     "frogger_swf",
     "xmasstickers",
     "home-sheep_home-2-lost-underground",
-    "tournament-pong"
+    "tournament-pong",
+    "iceagedvdrom"
   ]
 }
