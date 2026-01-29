@@ -1,6 +1,6 @@
 {
   "pack": 1,
-  "sizeMB": 748.6268577575684,
+  "sizeMB": 748.7961616516113,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -429,6 +429,7 @@
     "3d_taxi_racing",
     "qiaohu-mirror-thief",
     "monolith-mario-world",
-    "1100_connect_4"
+    "1100_connect_4",
+    "1100_fruits"
   ]
 }
