@@ -1,6 +1,6 @@
 {
   "pack": 1,
-  "sizeMB": 256.3425750732422,
+  "sizeMB": 256.6809663772583,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -212,6 +212,7 @@
     "aerodynamicsslide-swf",
     "mermaid-slacking",
     "blizzard-racing-hazard",
-    "bubble_trouble_"
+    "bubble_trouble_",
+    "poptartchase_game1"
   ]
 }
