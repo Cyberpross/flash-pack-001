@@ -1,6 +1,6 @@
 {
   "pack": 1,
-  "sizeMB": 459.6458692550659,
+  "sizeMB": 459.70280170440674,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -303,6 +303,7 @@
     "2523-magic-tiles-adventure",
     "2389-sheepy",
     "2409-tarnation",
-    "2663-aether"
+    "2663-aether",
+    "2325-podz"
   ]
 }
