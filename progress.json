@@ -1,6 +1,6 @@
 {
   "pack": 1,
-  "sizeMB": 442.747239112854,
+  "sizeMB": 442.8076114654541,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -286,6 +286,7 @@
     "1100_desert_race",
     "1100_bubble_blubbs",
     "1100_pente2",
-    "1100_tor_smash_master"
+    "1100_tor_smash_master",
+    "1100_love"
   ]
 }
