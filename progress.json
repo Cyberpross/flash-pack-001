@@ -1,6 +1,6 @@
 {
   "pack": 1,
-  "sizeMB": 521.5020523071289,
+  "sizeMB": 521.534257888794,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -316,6 +316,7 @@
     "rocketman-demo",
     "mansion-mania",
     "EngieMetalPipeCollect",
-    "download-super-mario-63-rom"
+    "download-super-mario-63-rom",
+    "1100_burnsie"
   ]
 }
