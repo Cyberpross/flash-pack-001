@@ -1,6 +1,6 @@
 {
   "pack": 1,
-  "sizeMB": 113.27502918243408,
+  "sizeMB": 113.37150573730469,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -81,6 +81,7 @@
     "04trial",
     "1100_30k_starfighter",
     "1100_chiken",
-    "1100_dizzy_newgrounds"
+    "1100_dizzy_newgrounds",
+    "1100_bomb_blast"
   ]
 }
