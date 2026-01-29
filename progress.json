@@ -1,6 +1,6 @@
 {
   "pack": 1,
-  "sizeMB": 748.5285377502441,
+  "sizeMB": 748.6268577575684,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -428,6 +428,7 @@
     "2681-shadow-of-the-hamunaptra",
     "3d_taxi_racing",
     "qiaohu-mirror-thief",
-    "monolith-mario-world"
+    "monolith-mario-world",
+    "1100_connect_4"
   ]
 }
